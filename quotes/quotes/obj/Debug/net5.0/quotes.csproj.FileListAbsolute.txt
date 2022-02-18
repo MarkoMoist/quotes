@@ -1,0 +1,16 @@
+C:\Users\marko\source\repos\quotes\quotes\bin\Debug\net5.0\quotes.exe
+C:\Users\marko\source\repos\quotes\quotes\bin\Debug\net5.0\quotes.deps.json
+C:\Users\marko\source\repos\quotes\quotes\bin\Debug\net5.0\quotes.runtimeconfig.json
+C:\Users\marko\source\repos\quotes\quotes\bin\Debug\net5.0\quotes.runtimeconfig.dev.json
+C:\Users\marko\source\repos\quotes\quotes\bin\Debug\net5.0\quotes.dll
+C:\Users\marko\source\repos\quotes\quotes\bin\Debug\net5.0\ref\quotes.dll
+C:\Users\marko\source\repos\quotes\quotes\bin\Debug\net5.0\quotes.pdb
+C:\Users\marko\source\repos\quotes\quotes\obj\Debug\net5.0\quotes.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\quotes\quotes\obj\Debug\net5.0\quotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\quotes\quotes\obj\Debug\net5.0\quotes.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\quotes\quotes\obj\Debug\net5.0\quotes.AssemblyInfo.cs
+C:\Users\marko\source\repos\quotes\quotes\obj\Debug\net5.0\quotes.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\quotes\quotes\obj\Debug\net5.0\quotes.dll
+C:\Users\marko\source\repos\quotes\quotes\obj\Debug\net5.0\ref\quotes.dll
+C:\Users\marko\source\repos\quotes\quotes\obj\Debug\net5.0\quotes.pdb
+C:\Users\marko\source\repos\quotes\quotes\obj\Debug\net5.0\quotes.genruntimeconfig.cache
